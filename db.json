@@ -1,0 +1,28 @@
+{
+  "todos": [
+    {
+      "id": "1",
+      "title": "Learn React"
+    },
+    {
+      "id": "2",
+      "title": "Learn Redux"
+    },
+    {
+      "id": "3",
+      "title": "Learn React Router"
+    },
+    {
+      "id": "2024-04-09T15:40:42.823Z",
+      "title": "Do Laundry"
+    },
+    {
+      "id": "2024-04-09T15:40:49.058Z",
+      "title": "Do Laundry"
+    },
+    {
+      "id": "2024-04-09T15:41:21.694Z",
+      "title": "Do Laundry"
+    }
+  ]
+}
